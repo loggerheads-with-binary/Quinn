@@ -1,0 +1,27 @@
+
+##Python Completion Files
+*.pyc
+__pycache_
+**/__pycache__
+**/*.pyc
+**/*.tool-versions
+*.tool-versions
+
+
+##Quinn Personal Logs
+*.csv
+**/*.csv
+
+##Quinn Personal Files
+/Server/frozen.pickle
+/.imgsrc
+
+
+
+##Others
+*.DS_Store
+**/*.DS_Store
+*.bhc
+**/*.bhc
+*.bin
+**/*.bin
